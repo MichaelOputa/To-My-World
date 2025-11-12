@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
-import { Heart, Sparkles, Music, Volume2, VolumeX } from 'lucide-react';
+import { Heart, Sparkles, Volume2, VolumeX } from 'lucide-react';
 import Hero from './components/Hero';
 import LoveMessage from './components/LoveMessage';
 import Gallery from './components/Gallery';

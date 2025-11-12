@@ -3,27 +3,27 @@ import { ChevronLeft, ChevronRight, Heart } from 'lucide-react';
 
 const memories = [
   {
-    image: 'src/img/2..jpg',
+    image: '/img/2..jpg',
     caption: 'A moment to remember forever'
   },
   {
-    image: 'src/img/3..jpg',
+    image: '/img/3..jpg',
     caption: 'My love, my best friend, my everything'
   },
   {
-    image: 'src/img/4..jpg',
+    image: '/img/4..jpg',
     caption: 'Your smile lights up my world'
   },
   {
-    image: 'src/img/5..jpg',
+    image: '/img/5..jpg',
     caption: 'You are the star that blazes in my sky'
   },
   {
-    image: 'src/img/6..jpg',
+    image: '/img/6..jpg',
     caption: 'Every moment with you is a treasure'
   },
   {
-    image: 'src/img/7..jpg',
+    image: '/img/7..jpg',
     caption: 'Forever grateful for your love'
   }
 ];

@@ -10,7 +10,7 @@ export default function Hero() {
           <div className="relative inline-block">
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-8 border-white shadow-2xl mx-auto bg-gradient-to-br from-rose-200 to-pink-200">
               <img
-                src="src/img/1..jpg"
+                src="/img/1..jpg"
                 alt="My Beautiful Wife"
                 className="w-full h-full object-cover"
               />
